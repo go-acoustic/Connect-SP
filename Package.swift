@@ -12,7 +12,7 @@
 
 import PackageDescription
 
-print("Using Connect debug version, if you need release version use https://github.com/go-acoustic/Connect-SP")
+print("Using Connect release version, if you need debug version use https://github.com/go-acoustic/ConnectDebug-SP")
 let package = Package(
     name: "Connect",
     platforms: [
