@@ -28,14 +28,14 @@ let package = Package(
         .binaryTarget(
             name: "Connect",
             url: "https://github.com/go-acoustic/Connect/releases/download/2.1.26/Connect_XCFramework_Release.zip",
-            checksum: "07e27f8c4d6df380064bdee3b56520ba87fb91ff0581d978684004eb407ab519"),
+            checksum: "87932cb3099361a95062a82b15e840bcd2068c8a4237a987c99e25c09f9299c2"),
         .binaryTarget(
             name: "Tealeaf",
             url: "https://github.com/go-acoustic/Connect/releases/download/2.1.26/Tealeaf_XCFramework_Release.zip",
-            checksum: "356f492ec44db667556073615bc2f9ed0007c869cfc26ee165de68f680c5c68d"),
+            checksum: "e6410a2e40f6923bd580631b3509c0255407ddaaa4217f2548f4f9a04f08802f"),
         .binaryTarget(
             name: "EOCore",
             url: "https://github.com/go-acoustic/Connect/releases/download/2.1.26/EOCore_XCFramework_Release.zip",
-            checksum: "ed53061c2d5a5f3a3dda1a4a3a661386c37ac14b8bef10db82b92eb8e802ba8a"),
+            checksum: "8850b2b69fd54193122e1feb39a376823cdf89810ba5167dcec9335d8197dbc5"),
     ]
 )
